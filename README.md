@@ -10,4 +10,4 @@ Responsive design mimicking the original Netflix interface. Showcase of popular 
 
 Getting Started : These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites : Any modern web browser (e.g., Chrome, Firefox, Safari).
+Prerequisites : Any modern web browser (e.g., Chrome, Firefox, Safari)
